@@ -5,7 +5,6 @@ const {
     get_A_Post,
     update_A_Post,
     delete_A_Post,
-    /*get_Blogs_By_Query,*/
     get_User_Posts
 } = require("../blogController/blogController");
 const {
