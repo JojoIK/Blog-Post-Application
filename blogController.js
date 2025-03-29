@@ -171,7 +171,6 @@ module.exports = {
     get_All_Posts, 
     get_A_Post, 
     update_A_Post, 
-    /*get_Blogs_By_Query*/ 
     delete_A_Post, 
     get_User_Posts 
 }
